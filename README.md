@@ -28,3 +28,7 @@ pandas==0.23.1
 scikit-learn==0.19.1
 
 ```
+
+参考网址：
+资源 | 一个Python特征选择工具，助力实现高效机器学习
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650744875&idx=3&sn=e7de9ce4074077d4de1f40ab24ebe51f&chksm=871aec55b06d65430e9c54085e3933735a62465aabe5cc5227de11cde40ee831db9340858920#rd
